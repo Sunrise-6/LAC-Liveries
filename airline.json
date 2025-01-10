@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Linee Aeree Calabre",
+    "color": "red",
+    "bgcolor": "yellow",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -294,7 +294,7 @@
             "liveries": [
             ],
             "labels": [
-                "Texture"
+                "https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A320_neo_LAC.png"
             ]
         },
         "2769": {
