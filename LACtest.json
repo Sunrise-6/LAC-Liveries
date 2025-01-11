@@ -251,7 +251,8 @@
                 {
                     "name": "LAC",
                     "texture": ["https://raw.githubusercontent.com/Sunrise-6/Linee-Aeree-Calabre-Liveries/refs/heads/main/liveries/A319_LAC.png"]
-            ],
+                }
+            ]
             "labels": [
                 "Texture"
             ]
