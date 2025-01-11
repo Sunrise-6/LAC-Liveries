@@ -101,6 +101,10 @@
         "13":{
             "name": "de Havilland Canada DHC2 Beaver",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/DHC-2_Beaver_LAC.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -135,6 +139,10 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/Concorde_LAC.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -244,6 +252,14 @@
         "2879": {
             "name": "Airbus a319-100",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A319_LAC.png"]
+                },
+                {
+                    "name": "LAC Cosenza",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A319_LAC_Cosenza.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -252,6 +268,10 @@
         "2418": {
             "name": "ATR 72-600",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/atr72_LAC.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -276,6 +296,14 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A320-214_LAC.png"]
+                },
+                {
+                    "name": "LAC Radio",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A320-214_LAC_radio_livery.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -292,6 +320,10 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A320_neo_LAC.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -300,6 +332,9 @@
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
+                {
+                    "name": "LAC MArRC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/b737MAX8_LAC_MARC_livery.png"]
             ],
             "labels": [
                 "Texture"
@@ -334,6 +369,14 @@
         "3054": {
             "name": "Boeing b737-800",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/b737-800_LAC.png"]
+                },
+                {
+                    "name": "LAC Black",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/b737-800_LAC_all_black.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -342,6 +385,10 @@
         "4017": {
             "name": "Embraer ERJ 145LR",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/ERJ145_LAC.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -374,6 +421,10 @@
         "2892": {
             "name": "SAAB 340",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/SAAB340_LAC.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -418,6 +469,18 @@
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A330_neo_LAC.png"]
+                },
+                {
+                    "name": "LAC Calabria",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A330_neo_LAC_special.png"]
+                },
+                {
+                    "name": "LAC AEA",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A330_neo_LAC_AEA.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -426,6 +489,26 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A321_neo_LAC.png"]
+                },
+                {
+                    "name": "LAC 'Connected to the World' ",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A321NEO_LAC_New_livery_Special.png"]
+                },
+                {
+                    "name": "LAC Tropea",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A321_neo_LAC_Tropea_livery.png"]
+                },
+                {
+                    "name": "LAC Tropea Pattern",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A321_neo_LAC_Tropea_pattern.png"]
+                },
+                {
+                    "name": "LAC Waves",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A321_neo_LAC_waves.png"]
+                }
             ],
             "labels": [
                 "Texture"
@@ -512,6 +595,10 @@
         "5073": {
             "name": "Bombardier Learjet45",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/Learjet45_LAC.png"]
+                }
             ],
             "labels": [
                 "Texture"
