@@ -294,7 +294,7 @@
             "liveries": [
                 {
                    "name": "LAC",
-                   "texture": [""https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A320_neo_LAC.png"]
+                   "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/A320_neo_LAC.png"]
                 }
             ],
             "labels": [
