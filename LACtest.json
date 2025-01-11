@@ -101,6 +101,10 @@
         "13":{
             "name": "de Havilland Canada DHC2 Beaver",
             "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/LAC-Liveries/refs/heads/main/liveries/DHC-2_Beaver_LAC.png"]
+                }
             ],
             "labels": [
                 "Texture"
